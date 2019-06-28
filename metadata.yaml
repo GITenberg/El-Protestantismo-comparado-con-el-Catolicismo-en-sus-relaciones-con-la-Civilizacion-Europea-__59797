@@ -1,5 +1,8 @@
 _repo: El-Protestantismo-comparado-con-el-Catolicismo-en-sus-relaciones-con-la-Civilizacion-Europea-__59797
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59797-h/images/cover.jpg
 creator:
   author:
     agent_name: Balmes, Jaime Luciano
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5162
     wikipedia: http://en.wikipedia.org/wiki/Jaime_Lucio_Balmes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59797#El-Protestantismo-comparado-con-el-Catolicismo-en-sus-relaciones-con-la-Civilizacion-Europea-_
 gutenberg_issued: '2019-06-23'
 gutenberg_type: Text
 identifiers:
